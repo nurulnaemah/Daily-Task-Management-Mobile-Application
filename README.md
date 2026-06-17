@@ -1,6 +1,9 @@
 # Daily Task Management Mobile Application
 This project is a group-based academic mobile application prototype focused on improving daily task organization and productivity through user-friendly mobile interface design.
 
+## Project Link
+Figma Prototype: https://www.figma.com/make/XqLdnzvMJoBNVvNDMxFjKP/Daily-Task-Management-App?p=f
+
 ## Project Overview 
 This project focuses on creating an interactive healthcare application prototype that provides personalized recommendations and supports user decision-making through basic artificial intelligence concepts.
 
